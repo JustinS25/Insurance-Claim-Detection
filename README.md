@@ -3,3 +3,5 @@ Project 1 assignment where we are looking into a large sample of insurance claim
 
 
 ## Citations
+
+- Used map() function found online to convert integer list to string. This allows us to label bar plot with proper x-ticks.
