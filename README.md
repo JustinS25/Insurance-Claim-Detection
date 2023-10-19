@@ -7,3 +7,5 @@ Project 1 assignment where we are looking into a large sample of insurance claim
 - Used map() function found online to convert integer list to string. This allows us to label bar plot with proper x-ticks.
 
 - used plt.text(ha = 'center') to center value count above the bar plot.
+
+- Reference: https://www.iii.org/article/background-on-insurance-fraud
