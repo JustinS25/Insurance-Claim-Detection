@@ -11,3 +11,5 @@ Project 1 assignment where we are looking into a large sample of insurance claim
 - Reference: https://www.iii.org/article/background-on-insurance-fraud
 
 - Plotting multiple bar charts at once: https://www.geeksforgeeks.org/plotting-multiple-bar-charts-using-matplotlib-in-python/
+
+Insurance Fraud Statistics: https://www.valuepenguin.com/auto-home-insurance-fraud#fraud
