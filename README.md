@@ -1,5 +1,12 @@
 # Insurance-Claim-Detection
-Project 1 assignment where we are looking into a large sample of insurance claims and seeing how insurance fraud is detected.
+Project 1 assignment where we are looking into a large sample of insurance claims and analyzing common trends amongst fraudulent insurance claims.
+
+## Analysis
+Intro:
+
+Analysis of our plots:
+
+Closing Statements:
 
 
 ## Citations
