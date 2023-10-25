@@ -1,6 +1,9 @@
 # Insurance-Claim-Detection
 Project 1 assignment where we are looking into a large sample of insurance claims and analyzing common trends amongst fraudulent insurance claims.
 
+## Google Slides Presentation Link:
+[Insurance Claims Fraud Data](https://docs.google.com/presentation/d/1DKmK4r6TIvLZjdau9-E6dDpkKqp4x_epElh8vH9w3qc/edit?usp=sharing)
+
 ## Analysis
 Intro:
 Fraudulent insurance claims are a massive issue in the United States and make up an estimated 10 to 20 percent of all insurance claims (Bishop 2023). As a result, companies are losing billions in potential profits, forcing the average American citizen to pay an extra 400 to 700 dollars annually (Bishop 2023). When looking closer into the numbers, we realize how big of an issue insurance claims fraud is and we can try looking at statistics to prevent potential fraudulent claims. In this project, our group has meticulously pulled data from online to create a csv file in which we can analyze certain trends within fraudulent claims to see if there are any prevalent correlations. The data we have merged includes all kinds of information about a sample of fraudulent insurance claims which includes data about aspects such as the location, claim amount, amongst other data that might be prevalent to providing us with answers. Using this information, we have generated various plots to justify potential correlations in the data to alert us what features are normally prevalent in false insurance claims.
